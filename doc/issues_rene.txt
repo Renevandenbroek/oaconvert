@@ -2,3 +2,9 @@ René, vul je hier de zaken in die jij nog als 'issues' ziet?
 
 Groeten,
 Bart
+
+When airspaces of the same type are located above each other  not always the correct information is given on the garmin gps
+at the cursor.
+At the cursor, information of the lowest Airspace with floor should be displayed. Somtimes that does not happen. 
+There is now a drawing order in which the type of airspace is of interest. 
+The height difference should be added to the drawing order too. Example is the TMA Eindhoven.
